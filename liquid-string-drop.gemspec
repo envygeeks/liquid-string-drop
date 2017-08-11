@@ -14,8 +14,8 @@ Gem::Specification.new do |spec|
   spec.files = %W(Gemfile) + Dir["lib/**/*"]
   spec.required_ruby_version = ">= 2.1.0"
   spec.email = ["jordon@envygeeks.io"]
+  spec.name = "liquid-string-drop"
   spec.require_paths = ["lib"]
-  spec.name = "jekyll-sanity"
   spec.has_rdoc = false
   spec.license = "MIT"
 
